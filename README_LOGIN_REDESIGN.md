@@ -1,0 +1,1 @@
+GPR FIELDLAB final UI redesign. New drone-field hero image, dedicated login card, username/password fields, remember-device control, secure-session footer, responsive mobile layout. Existing GPR processing and AI callbacks are retained. Run RUN_GPR_FIELDLAB.bat or python gpr_dash_app.py.
